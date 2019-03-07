@@ -31,7 +31,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(142, 102, 16, 0.10);
+  background-color: rgba(142, 102, 16, 0.20);
   z-index: 0;
 }
 
@@ -860,7 +860,7 @@ h2, h3 {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(142, 102, 16, 0.20);
+  background-color: rgba(142, 102, 16, 0.40);
   z-index: 0;
 }
 
@@ -901,7 +901,7 @@ h2, h3 {
 
 .f_banner-title2 {
   font-family: OpenSans-Bold;
-  color: #DED4B4;
+  color: #EFE5C3;
   font-size: 25px;
   margin-top: 0;
   text-transform: uppercase;
@@ -937,7 +937,7 @@ h2, h3 {
 .footer_buttons {
 	display:flex;
 	justify-content: center;
-  padding-bottom: 100px;
+  padding-bottom: 300px;
 }
 /* IPAD_SIZE */
 @media (min-width: 641px) and (max-width: 960px) {
@@ -983,7 +983,7 @@ h2, h3 {
     width:30%;
   }
   .footer_buttons {
-    padding-bottom: 0px;
+    padding-bottom: 80px;
   }
 
   .f_banner-title {
@@ -1044,7 +1044,7 @@ h2, h3 {
   }
 
   .footer_buttons {
-    padding-bottom: 0px;
+    padding-bottom: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
