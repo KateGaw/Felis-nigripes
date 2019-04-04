@@ -263,12 +263,12 @@ h2, h3 {
   .athlets_text {
     width:100%;
     padding-left: 0%;
-    padding-top: 15%;
+    padding-top: 10%;
   }
 
   .main_h1 {
     color:#463E3E;
-    font-size: 50px;
+    font-size: 33px;
     font-family: 'Pangolin', cursive;
     margin-bottom: 0;
     margin-top: 0;
@@ -315,7 +315,11 @@ h2, h3 {
     font-family: 'OpenSans', regilar;
     margin-top: 0px;
     margin-bottom: 0%;
-    padding-bottom:5%;
+    padding-bottom:3%;
+  }
+
+  .desk_padd {
+    padding-bottom: 10%;
   }
 
 /* IPAD_SIZE */
@@ -368,7 +372,7 @@ h2, h3 {
 
   .athlets_img {
     padding-left: 0%;
-    padding-top: 120px;
+    padding-top: 80px;
     margin-left: 0%;
     right:auto;
     display: flex;
@@ -378,7 +382,7 @@ h2, h3 {
 
   .text {
     font-size: 15px;
-    padding-bottom: 15%;
+    padding-bottom: 5%;
   }
   .athlets_text {
     padding-right: 0%;
@@ -437,7 +441,7 @@ h2, h3 {
 .player_text {
   width:100%;
   padding-left: 0%;
-  padding-top: 15%;
+  padding-top: 13%;
 }
 
 .pl_h1 {
@@ -495,7 +499,7 @@ h2, h3 {
  .img_2 {
    height:30%;
    padding-left: 0%;
-   padding-top: 100px;
+   padding-top: 80px;
    margin-left: 0%;
    display: flex;
    align-self: center;
@@ -598,7 +602,7 @@ h2, h3 {
   .be_active__text {
     width: 100%;
     padding-top: 0%;
-    padding-bottom: 5%;
+    /* padding-bottom: 5%; */
   }
 
   .size_plus {
@@ -614,11 +618,12 @@ h2, h3 {
   }
 
   .c__count {
-    font-size: 15px;
+    font-size: 25px;
   }
 
   .plus_padding {
     padding-top: 0%;
+    max-width: 750px;
   }
 
   .main_h1 {
@@ -649,7 +654,7 @@ h2, h3 {
     padding-right: 10%;
     padding-left: 4%;
     padding-top: 0%;
-    padding-bottom: 5%;
+    /* padding-bottom: 5%; */
     position: relative;
     top: -9vw;
   }
@@ -704,8 +709,8 @@ h2, h3 {
 .find_contact__text {
   width:50%;
   box-sizing: border-box;
-  padding-left: 8%;
-  padding-right: 5%;
+  padding-left: 5%;
+  padding-right: 8%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -730,7 +735,7 @@ h2, h3 {
   .find_contact__text {
     width: 100%;
     padding-top: 0%;
-    padding-bottom: 5%;
+    /* padding-bottom: 5%; */
     margin-top: 0px;
   }
 }
@@ -755,7 +760,7 @@ h2, h3 {
     padding-right: 10%;
     padding-left: 4%;
     padding-top: 0%;
-    padding-bottom: 5%;
+    /* padding-bottom: 5%; */
     margin-top: 0px;
     position: relative;
     top: -9vw;
@@ -819,7 +824,7 @@ h2, h3 {
     width: 100%;
     padding-top: 0%;
     margin-top: 0px;
-    padding-bottom: 5%;
+    /* padding-bottom: 5%; */
   }
 }
 /* PHONE_SIZE */
@@ -842,7 +847,7 @@ h2, h3 {
     padding-left: 4%;
     padding-top: 0%;
     margin-top: 0px;
-    padding-bottom: 5%;
+    /* padding-bottom: 5%; */
     position: relative;
     top: -9vw;
   }
