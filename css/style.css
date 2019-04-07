@@ -851,6 +851,10 @@ h2, h3 {
     position: relative;
     top: -9vw;
   }
+
+  .size_plus {
+    font-size:15px;
+  }
 }
 
 /* FOOTER */
