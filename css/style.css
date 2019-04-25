@@ -18,7 +18,7 @@ body {
 .header_banner {
   width: 100%;
   max-width: 1920px;
-  background-image: url("../img2/header_2000.jpg");
+  background-image: url("../img/header_2000.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -145,7 +145,7 @@ a {
 /* IPAD_SIZE */
 @media (min-width: 641px) and (max-width: 960px) {
   .header_banner {
-    background-image: url("../img2/header_1024.jpg");
+    background-image: url("../img/header_1024.jpg");
     width: 100%;
   }
 
@@ -171,7 +171,7 @@ a {
 /* PHONE_SIZE */
 @media (max-width: 640px) {
   .header_banner {
-    background-image: url("../img2/header_300.jpg");
+    background-image: url("../img/header_300.jpg");
   }
 
   .h_container-logo {
@@ -844,7 +844,7 @@ h2, h3 {
 /* FOOTER */
 .footer_banner {
   width: 100%;
-  background-image: url("../img2/footer_1920.jpg");
+  background-image: url("../img/footer_1920.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -939,7 +939,7 @@ h2, h3 {
 /* IPAD_SIZE */
 @media (min-width: 641px) and (max-width: 960px) {
   .footer_banner {
-    background-image: url("../img2/footer_1280.jpg");
+    background-image: url("../img/footer_1280.jpg");
   }
 
   .f_title {
@@ -996,7 +996,7 @@ h2, h3 {
 /* PHONE_SIZE */
 @media (max-width: 640px) {
   .footer_banner {
-    background-image: url("../img2/footer_767.jpg");
+    background-image: url("../img/footer_767.jpg");
   }
 
   .f_title {
